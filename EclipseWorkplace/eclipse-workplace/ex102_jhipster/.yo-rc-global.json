@@ -1,0 +1,8 @@
+{
+  "generator-jhipster:7.8.0": {
+    "promptValues": {
+      "packageName": "ca.sheridancollege.dhill196",
+      "nativeLanguage": "en"
+    }
+  }
+}
